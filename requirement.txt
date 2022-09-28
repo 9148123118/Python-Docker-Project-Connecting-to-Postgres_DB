@@ -1,1 +1,4 @@
+flask
+mysql-connector-python
+boto3
 psycopg2
